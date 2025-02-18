@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js, Node.js, TailwindCSS, Next.js**
 
-- 💬 Ask me about **Python, Java and SQL**
+- 💬 Ask me about **Python, Java , C and SQL**
 
 - 📫 How to reach me **dineshsunnynarsinga@gmail.com**
 
