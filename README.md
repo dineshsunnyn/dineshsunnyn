@@ -1,7 +1,7 @@
-![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+![MasterHead](https://files.oaiusercontent.com/file-Dpuw6zRmkKieiq3RJgh6AY?se=2025-02-18T03%3A00%3A49Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Db26969cc-50ab-450e-99dd-445c8b2b1acb.webp&sig=Gtg3NW4yu1gTqZQ3h0e4FXWkralTyhGSEo2JdL0uNqw%3D)
 <h3 align="center">Software Engineer crafting efficient and innovative solutions</h3>
 
-<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk4MjQ0MzUsIm5iZiI6MTczOTgyNDEzNSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjE3VDIwMjg1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMxY2NlMjBhNjcwZDU0ZWYxZTU4NjhlMmJmMTRhMjE5ZjhiN2Q4MDc0NmVhOGJjNDU0OWMxZmM1NTMwNGE4MjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.SffoctFgF8A-SEQZCgTNJTEXbV1oaiHBE9LGBDNQYzI">
+<img align="right" alt="Coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5">
 
 - 🔭 I’m currently working on [AI-Powered-Finance-Platform](https://github.com/dineshsunnyn/AI-Powered-Finance-Platform.git)
 
