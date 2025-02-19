@@ -3,11 +3,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5">
 
+- 🔍 Looking for **Full Stack or Embedded roles**
+
 - 🔭 I’m currently working on [AI-Powered-Finance-Platform](https://github.com/dineshsunnyn/AI-Powered-Finance-Platform.git)
+
+- 🔭 Also I’m currently working on [Shared-Ride](https://github.com/dineshsunnyn/AI-Powered-Finance-Platform.git)
 
 - 🌱 I’m currently learning **React.js, Node.js, TailwindCSS, Next.js**
 
-- 💬 Ask me about **Python, Java , C and SQL**
+- 💬 Ask me about **Python, Java , C, SQL and  Operating Systems**
 
 - 📫 How to reach me **dineshsunnynarsinga@gmail.com**
 
