@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [AI-Powered-Finance-Platform](https://github.com/dineshsunnyn/AI-Powered-Finance-Platform.git)
 
-- 🔭 Also I’m currently working on [Shared-Ride](https://github.com/dineshsunnyn/AI-Powered-Finance-Platform.git)
+- 🔭 Also I’m currently working on [Shared-Ride](https://github.com/dineshsunnyn/Shared-Ride-Front-End.git)
 
 - 🌱 I’m currently learning **React.js, Node.js, TailwindCSS, Next.js**
 
