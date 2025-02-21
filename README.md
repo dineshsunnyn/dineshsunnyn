@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dineshsunnynarsinga@gmail.com**
 
-- ⚡ Fun fact **I enjoy debugging so much that even my career path is a mix of different tech stacks—always optimizing, always evolving! 😆💻**
+- ⚡ Fun fact **I enjoy debugging so much that even my career path is a mix of different tech stacks—always optimizing, always evolving 😆💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
